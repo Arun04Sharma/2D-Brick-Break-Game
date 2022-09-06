@@ -27,7 +27,7 @@ function START()
     const paddle_height=20;
     const ball_radius=8;
     const SCORE_UNIT=10;
-    const Max_level=7;
+    const Max_level=3;
 
     let SCORE=0;
     let LIFE=3;
